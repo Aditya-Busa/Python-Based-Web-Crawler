@@ -1,4 +1,4 @@
-# CS-104-Software-System-Labs-Project
+# Python Based Web Crawler
 
 Developed a web crawler using Python for systematic website content indexing, recursively parsing HTML pages, ensuring comprehensive data extraction and structured organization for insightful analysis
 
